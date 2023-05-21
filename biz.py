@@ -1,5 +1,5 @@
 import streamlit as st
-import easyocr
+
 
 # Load database credentials from st.secrets
 db_credentials = st.secrets["db_credentials"]
