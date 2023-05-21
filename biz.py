@@ -1,5 +1,4 @@
 import streamlit as st
-import psycopg2
 import easyocr
 
 # Load database credentials from st.secrets
