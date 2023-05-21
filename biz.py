@@ -101,4 +101,4 @@ def app():
             st.error("Error inserting data into the database.")
            
 if name == 'main':
-app()
+   app()
